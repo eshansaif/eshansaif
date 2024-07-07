@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **German map based web application of Chemnitz**
 
-- 🌱 I’m currently learning **Redux, TypeScript**
+- 🌱 I’m currently learning **Redux, TypeScript and NextJS**
 
 - 👯 I’m looking to collaborate on [HotelHeaven](https://hotel-haven-37e44.web.app/)
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshansaif" alt="eshansaif" /></a> </p>
 
-- 🔭 I’m currently working on **German map based web application of Chemnitz**
+- 🔭 I’m currently working on **ERP, HRM**
 
 - 🌱 I’m currently learning **Redux, TypeScript and NextJS**
 

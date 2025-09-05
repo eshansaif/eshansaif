@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript and NextJS**
 
-- 👯 I’m looking to collaborate on [HotelHeaven](https://hotel-haven-37e44.web.app/)
+- 👯 I’m looking to collaborate on [Nomivista HRM](https://hrm.corporatecarebd.com/), [Outlet Expense(POS)](https://pos.outletexpense.com/)
 
 - 👨‍💻 All of my projects are available at [https://shanjeed-saif.netlify.app/](https://shanjeed-saif.netlify.app/)
 

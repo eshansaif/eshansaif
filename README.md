@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshansaif" alt="eshansaif" /></a> </p>
 
-- 🔭 I’m currently working on **ERP, HRM**
+- 🔭 I’m currently working on **ERP system, and Worked on POS enventory and serveral E-commerce**
 
-- 🌱 I’m currently learning **Redux, TypeScript and NextJS**
+- 🌱 I’m currently learning **Backend Technologies Nestjs, Postgressql, Prisma**
 
 - 👯 I’m looking to collaborate on [Nomivista HRM](https://hrm.corporatecarebd.com/), [Outlet Expense(POS)](https://pos.outletexpense.com/)
 
 - 👨‍💻 All of my projects are available at [https://shanjeed-saif.netlify.app/](https://shanjeed-saif.netlify.app/)
 
-- 💬 Ask me about **React.js, express.js (Any technology of MERN stack)**
+- 💬 Ask me about **React.js, Nextjs, express.js (Any technology of MERN stack)**
 
 - 📫 How to reach me **eshansaif1234@gmail.com**
 

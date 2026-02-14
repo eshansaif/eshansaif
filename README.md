@@ -57,7 +57,7 @@ I focus on performance, scalability, and real-world production-ready systems.
 - HTML5, CSS3, Sass
 - JavaScript (ES6+), TypeScript
 - React.js, Next.js
-- Redux
+- Redux,Zustand
 - Tailwind CSS, ShadcnUI, Bootstrap
 - Chart.js, D3.js
 

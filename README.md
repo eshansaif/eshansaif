@@ -86,12 +86,13 @@ I focus on performance, scalability, and real-world production-ready systems.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshansaif&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshansaif&show_icons=true&theme=default&cache_seconds=1800&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshansaif&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshansaif&layout=compact&cache_seconds=1800&v=2" />
 </p>
+
 
 ---
 

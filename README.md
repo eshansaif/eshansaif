@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/35582062?s=400&u=8be3ed669fa4d9c15cb008971a345565efb5938e&v=4" 
+       width="180" 
+       style="border-radius: 50%;" 
+       alt="Md. Shanjeed Saif" />
+</p>
+
 <h1 align="center">Md. Shanjeed Saif</h1>
 <h3 align="center">Full Stack (MERN) Developer | Software Engineer</h3>
 

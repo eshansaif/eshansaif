@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Md. Shanjeed Saif</h1>
-<h3 align="center">Full Stack (MERN) Developer | Software Engineer</h3>
+<h4 align="center">Full Stack (MERN) Developer | Software Engineer | Project Manager</h4>
 
 <p align="center">
 Dhaka, Bangladesh <br/>

@@ -114,7 +114,7 @@ I focus on performance, scalability, and real-world production-ready systems.
 
 ## 💬 Ask Me About
 
-React.js • Next.js • Express.js • MERN Stack Architecture • Production Deployment
+React.js • Next.js • Express.js • MERN Stack Architecture • Production Deployment • Project Management 
 
 ---
 
@@ -129,5 +129,5 @@ React.js • Next.js • Express.js • MERN Stack Architecture • Production D
 ---
 
 <p align="center">
-  <b>Open to challenging full-stack opportunities and impactful software projects.</b>
+  <b>Open to challenging full-stack and project management opportunities and impactful software projects.</b>
 </p>

@@ -46,13 +46,13 @@ I focus on performance, scalability, and real-world production-ready systems.
 - **SoftSelify SaaS based ERP**  
   https://www.softselify.com/
 
-  - **Maxcart E-commerce**  
+- **Maxcart E-commerce**  
   https://maxcart.com.bd/
 
-  - **GadgetBodda E-commerce**  
+- **GadgetBodda E-commerce**  
   https://www.gadgetboddaa.com/
 
-  - **Gadget Cheap E-commerce**  
+- **Gadget Cheap E-commerce**  
   https://gad-style-website-five.vercel.app/
 
 ---

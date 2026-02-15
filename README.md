@@ -74,12 +74,20 @@ I focus on performance, scalability, and real-world production-ready systems.
 - MySQL
 - PostgreSQL
 
+### Project Management
+- Agile
+- Scrum
+- Jira
+
 ### Tools & DevOps
 - Git & GitHub
 - Postman
 - Firebase
 - Webpack
 - Figma
+- Jira
+- Trello
+- Notion
 
 ---
 

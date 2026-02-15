@@ -26,8 +26,8 @@ I focus on performance, scalability, and real-world production-ready systems.
 
 ## 🚀 Current Focus
 
-- 🔭 Working on enterprise-level **ERP systems**
-- 🌱 Learning **NestJS, PostgreSQL, Prisma (Advanced Backend Architecture)**
+- 🔭 Working on enterprise-level **SaaS & ERP systems**
+- 🌱 Learning **NestJS, PostgreSQL, Prisma (Advanced Backend Architecture) & Exploring Different Project Management Terms & Tools**
 - 💡 Building scalable production applications
 
 ---
@@ -42,6 +42,18 @@ I focus on performance, scalability, and real-world production-ready systems.
 
 - **Commeriva CMS**  
   https://next.commeriva.com/
+  
+- **SoftSelify SaaS based ERP**  
+  https://www.softselify.com/
+
+  - **Maxcart E-commerce**  
+  https://maxcart.com.bd/
+
+  - **GadgetBodda E-commerce**  
+  https://www.gadgetboddaa.com/
+
+  - **Gadget Cheap E-commerce**  
+  https://gad-style-website-five.vercel.app/
 
 ---
 
